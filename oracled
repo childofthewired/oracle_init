@@ -1,0 +1,4 @@
+#!/bin/bash
+# chkconfig: 0126 80
+# description: stops the oracle processes
+su - oracled_all
